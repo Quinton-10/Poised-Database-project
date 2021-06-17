@@ -1,1 +1,2 @@
 # Poised-Database-project
+The aim of this project was to enhance the previous 'Poised Project' in Capstone Project 5, by incorporating database programmming into the project management system instead of external text files to store data. A small structural engineering company could use this program to keep track of various building projects that they are working on. A database called 'PoisePMS' was created to store project data show. Code was written in the Java language to then interact with the database, as well as provide a main user menu.
